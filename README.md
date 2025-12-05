@@ -1,12 +1,5 @@
 # Job Application Portal Project
 
-Here is a **ready-to-copy GitHub `README.md` file** — no extra formatting, no explanations.
-Just **copy & paste** into your README.md.
-
----
-
-# Job Application Portal
-
 A clean and responsive **Job Application Form (Web)** built using **HTML5** and **CSS3**.
 This project demonstrates form layout design, responsive UI using CSS Grid, and a modern interface suitable for real job application workflows.
 
@@ -14,7 +7,7 @@ This project demonstrates form layout design, responsive UI using CSS Grid, and 
 
 ## 🚀 Demo Preview
 
-![IMAGE]()
+![IMAGE](https://github.com/shiva-2427/Job-Application-Portal-Project/blob/main/Job%20Portal%20Img.png)
 
 ---
 
@@ -68,4 +61,4 @@ Designed inside a centered card with a clean, professional appearance.
 
 This project is open-source and free for personal or educational use.
 
-Just tell me!
+## Project By: Shiva Tripathi
